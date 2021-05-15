@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/solar-system/static/css/main.5254c9aa.chunk.css",
+    "main.js": "/solar-system/static/js/main.252b4955.chunk.js",
+    "main.js.map": "/solar-system/static/js/main.252b4955.chunk.js.map",
+    "runtime-main.js": "/solar-system/static/js/runtime-main.8b9bf29f.js",
+    "runtime-main.js.map": "/solar-system/static/js/runtime-main.8b9bf29f.js.map",
+    "static/js/2.68d14557.chunk.js": "/solar-system/static/js/2.68d14557.chunk.js",
+    "static/js/2.68d14557.chunk.js.map": "/solar-system/static/js/2.68d14557.chunk.js.map",
+    "index.html": "/solar-system/index.html",
+    "static/css/main.5254c9aa.chunk.css.map": "/solar-system/static/css/main.5254c9aa.chunk.css.map",
+    "static/js/2.68d14557.chunk.js.LICENSE.txt": "/solar-system/static/js/2.68d14557.chunk.js.LICENSE.txt",
+    "static/media/angle.a2e050f9.svg": "/solar-system/static/media/angle.a2e050f9.svg",
+    "static/media/MainPage.css": "/solar-system/static/media/venus.ce382351.svg",
+    "static/media/gravity.1dd0e122.svg": "/solar-system/static/media/gravity.1dd0e122.svg",
+    "static/media/Satelites.css": "/solar-system/static/media/moon.0f9b2e9c.svg",
+    "static/media/orbite.60631079.svg": "/solar-system/static/media/orbite.60631079.svg",
+    "static/media/satellites.9b121fdf.svg": "/solar-system/static/media/satellites.9b121fdf.svg",
+    "static/media/tour.fce1e833.svg": "/solar-system/static/media/tour.fce1e833.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b9bf29f.js",
+    "static/js/2.68d14557.chunk.js",
+    "static/css/main.5254c9aa.chunk.css",
+    "static/js/main.252b4955.chunk.js"
+  ]
+}
