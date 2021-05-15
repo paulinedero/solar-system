@@ -1,1 +1,1 @@
-solar-system/src/App.js
+App.js
